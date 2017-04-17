@@ -10,14 +10,14 @@ Androguard is a full python tool to play with Android files.
 * Disassemble DEX/ODEX bytecodes
 * Decompiler DEX files
 
-##1. Authors: Androguard Team
+## 1. Authors: Androguard Team
 
 Androguard + tools: Anthony Desnos (desnos at t0t0.fr).
 
 DAD (DAD is A Decompiler): Geoffroy Gueguen (geoffroy dot gueguen at gmail dot com)
 
 
-##2. Licenses
+## 2. Licenses
 
 * Androguard
 
